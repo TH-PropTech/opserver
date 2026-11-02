@@ -2,6 +2,8 @@
 
 Redis cache cho backend, host trên máy riêng (tách khỏi máy chạy backend).
 
+Hướng dẫn deploy từng bước trên EC2: [docs/deploy-redis-ec2.md](docs/deploy-redis-ec2.md).
+
 ## Chạy
 
 ```bash
